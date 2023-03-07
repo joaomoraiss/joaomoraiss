@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/joaomoraiss">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomoraiss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraiss&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomoraiss&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraiss&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -56,7 +56,4 @@ Here are some ideas to get you started:
   
 </div>
 
-  <div>
-<img height=180em width="42%" src="https://github-readme-stats.vercel.app/api?username=joaomoraiss&count_private=true&show_icons=true&theme=midnight-purple">
-<img height=180em width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraiss&hide_progress=true">
-  </div>
+ 
