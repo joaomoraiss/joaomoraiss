@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/joaomoraiss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TaryNascimento&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaryNascimento&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomoraiss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraiss&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center" justify-content="center" >
