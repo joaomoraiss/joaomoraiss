@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <div>
   
   <h2 align="center"> 
-    <a href="www.linkedin.com/in/joão-morais-4b231a269">João Morais 😃️</a>
-    Software Developer
+    <a href="www.linkedin.com/in/joão-morais-4b231a269">João Morais</a>
+    / Software Developer
   </h2>
   
 </div>
