@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,junit,git" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,docker,junit,git"
+    />
   </a>
 </p>
 
